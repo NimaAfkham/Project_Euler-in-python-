@@ -20,4 +20,4 @@ To run these solutions, you’ll need:
 Python 3.x installed on your system
 
 Currently solved:
-Problems 0 to 13
+Problems 0 to 17
